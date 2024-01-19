@@ -1,4 +1,5 @@
 package org.example.logica;
+
 import java.util.Scanner;
 
 public class Game {
@@ -78,3 +79,4 @@ public class Game {
         }
     }
 }
+
