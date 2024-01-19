@@ -1,0 +1,12 @@
+
+z	java:S135"YReduce the total number of break and continue statements in this loop to use at most one.(˜ïˆÿÿÿÿÿ8ÀÊĞõÑ1
+t
+java:S3776"RRefactor this method to reduce its Cognitive Complexity from 32 to the 15 allowed.(ŞÌ‡ÿÿÿÿÿ8‹ËĞõÑ1
+8
+java:S3626L"Remove this redundant jump.(ÉŠ©ƒ8‹ËĞõÑ1
+H
+java:S1481"&Remove this unused "i" local variable.(‚áì¨ûÿÿÿÿ8‹ËĞõÑ1
+o
+java:S3776g"RRefactor this method to reduce its Cognitive Complexity from 32 to the 15 allowed.(†Ã›­8ËĞõÑ1
+j
+java:S1871n"MThis branch's code block is the same as the block for the branch on line 106.(Óÿî¸8ËĞõÑ1
