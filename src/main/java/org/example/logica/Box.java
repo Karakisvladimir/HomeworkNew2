@@ -1,6 +1,6 @@
 package org.example.logica;
 
-public class Box{
+public class Box {
     public char[] box;
 
     public Box(){
@@ -20,3 +20,4 @@ public class Box{
             box[i] = ' ';
     }
 }
+
